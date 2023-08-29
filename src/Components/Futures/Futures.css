@@ -1,0 +1,24 @@
+.card-futures{
+    background-color:#6272a4 ;
+    border-radius: 4px;
+    min-height: 800px;
+    padding: 12px;
+}
+
+.card-futures>h3{
+    text-align: center;
+    color: #f8f8f2;
+    font-size: 20px;
+    margin-bottom: 18px;
+    margin-top: 8px;
+}
+
+.card-futures>p{
+    color: #50fa7b;
+    text-align: center;
+    font-size: 16px;
+}
+
+.futures-price{
+    color: #ff5555 !important;
+}

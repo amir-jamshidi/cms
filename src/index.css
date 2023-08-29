@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'iran';
+  src: url('./fonts/iran.woff2');
+}
+
+*{
+  font-family: 'iran' !important;
+}
